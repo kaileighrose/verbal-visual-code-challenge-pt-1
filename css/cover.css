@@ -9,6 +9,10 @@
 .navbar-default {
   color: rgba(0, 0, 71, 1);
 }
+
+.cover-heading {
+  font-weight: 700;
+}
 /* Links */
 a,
 a:focus,
@@ -76,6 +80,7 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-left: 20px;
 }
 
 .masthead-nav > li {
