@@ -6,7 +6,9 @@
   align-content: right;
   text-align: left;
 }
-
+.navbar-default {
+  color: rgba(0, 0, 71, 1);
+}
 /* Links */
 a,
 a:focus,
@@ -41,6 +43,7 @@ body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  font-family: 'Karla', sans-serif;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
