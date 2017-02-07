@@ -12,7 +12,11 @@
 
 .cover-heading {
   /*font-weight: 700;*/
-  margin-top: 0px;
+  margin: 0px;
+}
+
+.lead {
+  margin-top: 1em;
 }
 /* Links */
 a,
