@@ -1,7 +1,13 @@
 /*
  * Globals
  */
-
+.btn { 
+  border: 2px solid #fff;
+  border-radius: 0;
+  display: inline-block;
+  width: 48%;
+  padding: 1em;
+ }
 .content {
   align-content: right;
   text-align: left;
