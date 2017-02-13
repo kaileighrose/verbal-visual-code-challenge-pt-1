@@ -39,10 +39,15 @@
 
 span.icon-bar {
   background-color: rgb(0, 0, 71) !important;
-  border-color: #fff !important;
 }
 .navbar-brand {
   color: rgba(0, 0, 71, 1) !important;
+}
+.navbar-toggle {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  border-color: #fff !important;
 }
 /*customizations that I've added end */
 
@@ -155,6 +160,9 @@ body {
 @media (min-width: 768px) {
   .navbar-brand {
     float: left;
+  }
+  .navbar-toggle {
+    float: right;
   }
   .navbar-nav {
     float: right;
