@@ -5,7 +5,13 @@
 p {
   margin-bottom: 0px;
 }
-
+.arrow {
+  top: 2pt;
+  width: 0.4em;
+  height: 3em;
+  position: relative;
+  align-content: center;
+}
 .navbar-header {
   float: none;
 }
