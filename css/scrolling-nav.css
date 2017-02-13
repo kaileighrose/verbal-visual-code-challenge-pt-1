@@ -43,18 +43,21 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #eee;
+    color: rgba(0, 0, 71, 1) !important;
+    text-shadow: 0px;
 }
 
-.services-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #fff;
-}
-
-.contact-section {
+.footer-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #eee;
+    color: rgba(0, 0, 71, 1) !important;
+    text-shadow: 0px;
+}
+
+div.links > a {
+    display: block;
+    color: rgba(0, 0, 71, 1) !important;
+    text-shadow: 0px;
 }

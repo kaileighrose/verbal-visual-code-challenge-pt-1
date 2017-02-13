@@ -2,6 +2,9 @@
  * Globals
  */
 /* Customizations that I've added */
+p {
+  margin-bottom: 0px;
+}
 
 .navbar-header {
   float: none;
@@ -184,7 +187,6 @@ body {
 }
 .cover .btn-lg {
   padding: 10px 20px;
-  font-weight: bold;
 }
 
 
